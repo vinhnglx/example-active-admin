@@ -3,11 +3,13 @@ Active Admin
 
 Hi guys,
 
-We will take a look the second gem that need to know when you workings with Rails. This gem used to create an admin page for Rails application.
+This is example about create admin page in Rails application.
+
+Steps followed [Active Admin Documentation](http://activeadmin.info/documentation.html).
+
+I've comment into code, please read carefull.
 
 **Account to login**: admin@example.com/password.
-
-I wrote a lot of comments into code and git commit messages for each step.
 
 Some links reference:
 
